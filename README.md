@@ -1,8 +1,14 @@
 # Fetch Data Android App
 
-This Android app fetches data from a JSON API and displays it in a RecyclerView grouped by ListId. The app allows you to filter the items based on the selected ListId using a dropdown list.
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 1;">
+    This Android app fetches data from a JSON API and displays it in a RecyclerView grouped by ListId. The app allows you to filter the items based on the selected ListId using a dropdown list.
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="./demo.gif" alt="App Demo" width="200" />
+  </div>
+</div>
 
-![App Demo](demo.gif)
 
 ## Features
 
